@@ -10,7 +10,7 @@
   <RestaurantCard>
     <Name>Manny's Steakhouse</Name>
     <Phone>546.656.3457</Phone>
-    weekday<Hours type="Weekday">9 to 5 - its a way to make a livin</Hours>
+    <Hours type="Weekday">9 to 5 - its a way to make a livin</Hours>
     <Hours type="Weekend">More hours if different</Hours>
     <Addres> 123 placeholder street</Addres>
     <Email>jfdksl@jfkdlsfj.com</Email>
